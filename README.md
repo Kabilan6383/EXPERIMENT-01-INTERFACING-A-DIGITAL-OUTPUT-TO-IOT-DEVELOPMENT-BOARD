@@ -7,7 +7,6 @@
 
 ## REG NO:212224110012
 
-
 ## Aim
 
 To Interface a Digital output (LED) to ARM IOT development board and write a program to blink an LED.
